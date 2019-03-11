@@ -189,10 +189,12 @@
 [[constraint]]
   name = "golang.org/x/net"
   branch = "master"
+  source = "https://github.com/golang/net.git"
 
 [[constraint]]
   name = "golang.org/x/sys"
   branch = "master"
+  source = "https://github.com/golang/sys.git"
 
 [[constraint]]
   name = "google.golang.org/grpc"
@@ -237,6 +239,7 @@
 [[constraint]]
   branch = "master"
   name = "golang.org/x/oauth2"
+  source = "https://github.com/golang/oauth2.git"
 
 [[constraint]]
   branch = "master"
